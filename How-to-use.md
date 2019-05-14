@@ -1,19 +1,20 @@
 - [صفحه راهنما](#صفحه-راهنما)
-- [دستور man](#دستور ‫man‬)
-- [الگوها pattern](#الگوها pattern)
-- [ورودی ، خروجی و خطاهای استاندارد (stdout/stdin/stderr)](#ورودی ، خروجی و خطاهای استاندارد (stdout/stdin/stderr))
-- [هدایت ورودی و خروجی (I/O) در لینوکس](# هدایت ورودی و خروجی (I/O) در لینوکس)
-- [دستور grep](#دستور grep)
+- [دستور man](#دستور-‫man‬)
+- [regex (Regular Expression)](#regex-Regular-Expression)
+- [الگوها pattern](#الگوها-pattern)
+- [ورودی ، خروجی و خطاهای استاندارد (stdout/stdin/stderr)](#ورودی--خروجی-و-خطاهای-استاندارد -stdoutstdinstderr)
+- [هدایت ورودی و خروجی (I/O) در لینوکس](# هدایت-ورودی-و-خروجی-IO-در-لینوکس)
+- [دستور grep](#دستور-grep)
 - [Pipeline](#Pipeline)
-- [دستور grep](#دستور grep)
-- [Script file](#Script file)
-- [batch file (in Microsoft Windows) PowerShell](#batch file (in Microsoft Windows) PowerShell)
-- [خط فرمان (Command Line Interface)](#خط فرمان (Command Line Interface))
-- [# پوسته لینوکس (Shell)](# پوسته لینوکس (Shell))
-- [# پایانه و راه برقراری تعامل (Terminal)](# پایانه و راه برقراری تعامل (Terminal))
-- [Shell script ][# Shell script ]
-- [dpkg/apt][# dpkg/apt]
-- [متغیرهای محیطی ](# متغیرهای محیطی )
+- [دستور grep](#دستور-grep)
+- [Script file](#Script-file)
+- [batch file (in Microsoft Windows) PowerShell](#batch-file-in-Microsoft-Windows-PowerShell)
+- [خط فرمان (Command Line Interface)](#خط-فرمان-Command-Line-Interface)
+- [# پوسته لینوکس (Shell)](# پوسته-لینوکس-Shell)
+- [# پایانه و راه برقراری تعامل (Terminal)](# پایانه-و-راه-برقراری-تعامل-Terminal)
+- [Shell script ][# Shell-script ]
+- [dpkg/apt][#dpkgapt]
+- [متغیرهای محیطی ](#متغیرهای-محیطی )
 
 
 
