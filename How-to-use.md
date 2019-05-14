@@ -10,8 +10,8 @@
 - [Script file](#Script-file)
 - [batch file (in Microsoft Windows) PowerShell](#batch-file-in-Microsoft-Windows-PowerShell)
 - [خط فرمان (Command Line Interface)](#خط-فرمان-Command-Line-Interface)
-- [# پوسته لینوکس (Shell)](# پوسته-لینوکس-shell)
-- [# پایانه و راه برقراری تعامل (Terminal)](# پایانه-و-راه-برقراری-تعامل-terminal)
+- [# پوسته لینوکس (Shell)](#پوسته-لینوکس-shell)
+- [# پایانه و راه برقراری تعامل (Terminal)](#پایانه-و-راه-برقراری-تعامل-terminal)
 - [Shell script ][#shell-script]
 - [dpkg/apt][#dpkgapt]
 - [متغیرهای محیطی ](#متغیرهای-محیطی )
