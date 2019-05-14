@@ -12,8 +12,8 @@
 - [خط فرمان (Command Line Interface)](#خط-فرمان-Command-Line-Interface)
 - [# پوسته لینوکس (Shell)](#پوسته-لینوکس-shell)
 - [# پایانه و راه برقراری تعامل (Terminal)](#پایانه-و-راه-برقراری-تعامل-terminal)
-- [Shell script ][#shell-script]
-- [dpkg/apt][#dpkgapt]
+- [Shell script ](#shell-script)
+- [dpkg/apt](#dpkgapt)
 - [متغیرهای محیطی ](#متغیرهای-محیطی )
 
 
