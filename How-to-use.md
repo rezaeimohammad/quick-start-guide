@@ -2,7 +2,7 @@
 - [دستور man](#دستور-man)
 - [regex (Regular Expression)](#regex-Regular-Expression)
 - [الگوها pattern](#الگوها-pattern)
-- [ورودی ، خروجی و خطاهای استاندارد (stdout/stdin/stderr)](#ورودی--خروجی-و-خطاهای-استاندارد -stdoutstdinstderr)
+- [ورودی ، خروجی و خطاهای استاندارد (stdout/stdin/stderr)](#ورودی--خروجی-و-خطاهای-استاندارد-stdoutstdinstderr)
 - [هدایت ورودی و خروجی (I/O) در لینوکس](# هدایت-ورودی-و-خروجی-IO-در-لینوکس)
 - [دستور grep](#دستور-grep)
 - [Pipeline](#Pipeline)
