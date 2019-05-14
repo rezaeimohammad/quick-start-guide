@@ -1,5 +1,5 @@
 - [صفحه راهنما](#صفحه-راهنما)
-- [دستور man](#دستور-‫man‬)
+- [دستور man](#دستور-man‬)
 - [regex (Regular Expression)](#regex-Regular-Expression)
 - [الگوها pattern](#الگوها-pattern)
 - [ورودی ، خروجی و خطاهای استاندارد (stdout/stdin/stderr)](#ورودی--خروجی-و-خطاهای-استاندارد -stdoutstdinstderr)
